@@ -28,6 +28,7 @@ gem 'unicorn', "~>4.6.3"
 gem "rack-timeout"
 
 gem "mysql2"
+gem 'pg' 
 gem 'haml'
 gem 'sass', "  ~> 3.2.9"
 gem 'rest-client', '>= 1.6.0'
